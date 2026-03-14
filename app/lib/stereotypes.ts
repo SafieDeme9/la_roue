@@ -1,4 +1,4 @@
-import { Stereotype } from "./definiton";
+import { Stereotype } from "./definition";
 
 export const STEREOTYPES: Stereotype[] = [
     {
