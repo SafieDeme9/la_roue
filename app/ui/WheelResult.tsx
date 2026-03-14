@@ -1,4 +1,4 @@
-import { Stereotype } from "@/app/lib/definiton";
+import { Stereotype } from "../lib/definition";
 
 type WheelResultProps = {
     stereotype: Stereotype;

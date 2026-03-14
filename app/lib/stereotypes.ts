@@ -1,8 +1,4 @@
-type Stereotype = {
-    id: string;
-    label: string;
-    reponse: string;
-};
+import { Stereotype } from "./definition";
 
 export const STEREOTYPES: Stereotype[] = [
     {
